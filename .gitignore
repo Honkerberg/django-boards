@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+.venv
+*.venv
+
+# SQL lite db
+*.sqlite3
