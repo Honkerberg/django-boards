@@ -7,6 +7,8 @@ name = "pypi"
 django = "==4.0.5"
 django-widget-tweaks = "*"
 markdown = "*"
+python-decouple = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
